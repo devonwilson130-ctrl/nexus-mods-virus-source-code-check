@@ -1,0 +1,1 @@
+gcc re9_menu.c -o re9_menu.exe -lgdi32 -luser32 -mwindows
